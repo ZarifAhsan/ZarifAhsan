@@ -1,16 +1,30 @@
-### Hey peeps 👋
+[<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=ZarifAhsan&&show_icons=true&theme=tokyonight&count_private=true" alt="Zarif's Github Stats"/>](https://github.com/ZarifAhsan)
 
-<!--
-**ZarifAhsan/ZarifAhsan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hey peeps, I'm Zarif Ahsan 👋
 
-Here are some ideas to get you started:
+[![Twitter Follow](https://twitter.com/Zarif_Ahsan)
+[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=222244&labelColor=000000&logo=gmail&logoColor=f5f7fe)](mailto:mdzarifahsan@gmail.com?subject=From%20GitHub&&body=Hi,%20there.%20Found%20you%20on%20GitHub!%20Let's%20talk%20about...)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> Undergraduate student @ University of Dhaka <br/>
+> Technology enthusiast, Android development enthusiast <br/>
+
+### Things you should know
+
+- 🔭 <b>Currently working on:</b> Java, Kotlin
+- 🌱 <b>Getting better at:</b> Android dev
+- 🤔 <b>Exploring:</b> More Android development 
+- ⚗️ <b>Experimenting on:</b> Design Elements
+- 💬 <b>Ask me about:</b> TECH
+
+### My Stacks
+
+```json
+{
+  "languages": ["Python", "C", "Kotlin", "Java"]    
+  },
+  
+  "database":  ["SQLite"],
+  "misc": ["Firebase"],
+  "tools": ["VS Code","Android Studio"],
+}
+```

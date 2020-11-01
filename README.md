@@ -1,6 +1,6 @@
 [<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=ZarifAhsan&&show_icons=true&theme=tokyonight&count_private=true" alt="Zarif's Github Stats"/>](https://github.com/ZarifAhsan)
 
-### Hey people, I'm Zarif Ahsan. Nice to have you here! 👋
+### Hey people, I'm Zarif. Nice to have you here! 👋
 <br/> 
 
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=222244&labelColor=000000&logo=gmail&logoColor=f5f7fe)](mailto:mdzarifahsan@gmail.com?subject=From%20GitHub&&body=Hi,%20there.%20Found%20you%20on%20GitHub!%20Let's%20talk%20about...)

@@ -16,6 +16,13 @@ A college student with big dreams and sky high expectations.<br/>
 - ⚗️ <b>Experimenting on:</b> Android Material design
 - 💬 <b>Ask me about:</b> TECH
 
+<p align="center">
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ZarifAhsan&hide_border=false&theme=react&background=0d1117" width="55%" />
+   
+   <img src="https://activity-graph.herokuapp.com/graph?username=afra-ahana&theme=react-dark" width="100%"/>
+</p>
+
+
 ### My Stacks
 
 ```json

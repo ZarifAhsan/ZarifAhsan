@@ -23,7 +23,7 @@ A college student with big dreams and sky high expectations.<br/>
   "languages": ["Python", "C", "Kotlin", "Java"]    
   },
   
-  "database":  ["SQLite"],
+  "database":  ["SQLite", "SQL"],
   "misc": ["Firebase"],
   "tools": ["VS Code", "Android Studio", "Adobe XD", "PyCharm", "IntelliJ"],
 }

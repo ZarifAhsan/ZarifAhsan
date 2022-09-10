@@ -25,6 +25,6 @@ A college student with big dreams and sky high expectations.<br/>
   
   "database":  ["SQLite"],
   "misc": ["Firebase"],
-  "tools": ["VS Code","Android Studio"],
+  "tools": ["VS Code", "Android Studio", "Adobe XD", "PyCharm", "IntelliJ"],
 }
 ```

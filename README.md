@@ -1,5 +1,3 @@
-[<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=ZarifAhsan&&show_icons=true&theme=tokyonight&count_private=true" alt="Zarif's Github Stats"/>](https://github.com/ZarifAhsan)
-
 ### Hey people, I'm Zarif. Nice to have you here! 👋
 <br/> 
 

@@ -18,7 +18,7 @@ A college student with big dreams and sky high expectations.<br/>
 
 ```json
 {
-  "languages": ["Python", "C", "Kotlin", "Java"]    
+  "languages": ["Python", "C", "Kotlin", "Java", "JavaScript"]    
   },
   
   "database":  ["SQLite", "SQL"],

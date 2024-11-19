@@ -4,12 +4,12 @@
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=222244&labelColor=000000&logo=gmail&logoColor=f5f7fe)](mailto:mdzarifahsan@gmail.com?subject=From%20GitHub&&body=Hi,%20there.%20Found%20you%20on%20GitHub!%20Let's%20talk%20about...)
 
 > Technology enthusiast, Android development enthusiast,
-A college student with big dreams and sky high expectations.<br/>
+A college student with big dreams and sky-high expectations.<br/>
 
 ### Things you should know
 
-- 🔭 <b>Currently working on:</b> Kotlin
-- 🌱 <b>Getting better at:</b> Android dev
+- 🔭 <b>Currently working on:</b> React Native with tsx
+- 🌱 <b>Getting better at:</b> Web App Development
 - 🤔 <b>Exploring:</b> MVVM
 - ⚗️ <b>Experimenting on:</b> Android Material design
 - 💬 <b>Ask me about:</b> TECH
